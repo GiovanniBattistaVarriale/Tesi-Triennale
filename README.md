@@ -1,6 +1,8 @@
 # Tesi-Triennale
 *Analisi degli effetti di interfaccia tra componenti di un'ala controventata mediante soluzioni strutturali analitiche e numeriche*
 
+<img src="https://github.com/GiovanniBattistaVarriale/Tesi-Triennale/assets/152026558/13f7ee65-65c7-42db-8d09-e4420c2d1a8d"  height=300> <img src="https://github.com/GiovanniBattistaVarriale/Tesi-Triennale/assets/152026558/f6303274-b2a6-4dbd-9e04-db174a51db13"  height=300>
+
 Lo scopo di questa tesi è effettuare l'analisi statica di un velivolo Tecnam P2010 tramite metodi analitici e FEM, con particolare attenzione agli effetti di interfaccia fra i componenti maggiormente in tensione della struttura.
 
 Per il metodo analitico ci si avvale di un codice MATLAB per tutti i calcoli necessari al dimensionamento e per lo sviluppo dei grafici associati, utilizzando procedure standard. I dati così ottenuti vengono utilizzati per dimensionare il modello FEM dell'ala controventata del velivolo. Viene generato un primo modello di test, sovradimensionato, per poi giungere ad una soluzione FEM più realistica, con particolare attenzione alle zone maggiormente in tensione. Tali zone difatti vengono opportunamente modellate per tener conto di stress locali, ad ogni modo mantenendo la struttura la più leggera possibile. 
@@ -12,4 +14,4 @@ Nell'appendice sono presenti elementi utilizzati per lo sviluppo di questo elabo
 
 Il codice MATLAB qui pubblicato è quello relativo a tutti i calcoli eseguiti. Questo codice è stato interamente prodotto da *Giovanni Battista Varriale*.
 
-![](https://github.com/GiovanniBattistaVarriale/Tesi-Triennale/assets/152026558/50e8536f-dd66-436c-b2a0-5d5f776d85b3| width=100)
+
